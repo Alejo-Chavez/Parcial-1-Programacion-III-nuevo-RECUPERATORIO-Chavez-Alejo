@@ -311,7 +311,8 @@ Pa los profes:
     Quería redactar mi humilde opinion sobre el enunciado al ser un confuso, ya que al seguir al pie de la letra lo que se pide
     hay momentos en el futuro donde se pide hacer algo, que hubiera sido más facil por ejemplo usar otro formato para listar los productos
     para hacer ciertas funcionalidades
-    o tal vez solo soy malo programando y ni me di cuenta que podía hacerlo de otra forma jaja :p
+    o tal vez solo soy malo programando y ni me di cuenta que podía hacerlo de otra forma jaja :p, lo intné aunque no llegué a hacer el
+    css (odio css)
 */
 
 
