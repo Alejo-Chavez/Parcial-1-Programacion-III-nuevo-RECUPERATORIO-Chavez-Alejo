@@ -1,0 +1,56 @@
+/*Sacando los valores por default*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #4bc214;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    font-family: Arial, sans-serif;
+}
+.nombre_fruteria{
+    padding-left: 10px;
+}
+#nav_bar_alumno{
+    display: flex;
+    justify-content: end;
+    padding-left: 20%;
+}
+#barra_busqueda{
+    padding-left: 3px;
+    outline: none;
+    border-radius: 4px;
+    height: 29px;
+    font-size: 13px;
+    border: 1px solid rgba(0,0,0,0.12);
+
+}
+    
+.busqueda{
+    justify-content: start;
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    width: 60%;
+}
+
+body{
+    background-color: #ffffff;
+}
+
+.card-producto img {
+    width: 80px;
+    height: 80px;
+}
+
